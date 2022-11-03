@@ -2,14 +2,10 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
+- My motivation towards completing this project was a driving interest in how one could clean up the HTML/CSS code within a webpage WITHOUT ruining the integrity of the established webpage.
+- I built this project to obtain experience in something I was not entirely familiar with doing and learn new concepts in the process.
+- The problem solved within the challenge was not one of creating new features nor a new webpage, but editing and adding additional code to a webpage that had unorganized and non-semantic code.
+- I learned how to avoid using "div" AND learned how to replace the placeholder "div" with more efficient semantic tags. I also learned how to organize given attributes in CSS to avoid longer and more drawn out sequences of script. Lastly, I learned the value of applying alt attributes to a given "img" and creating a more concise title to a "title element."
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
@@ -20,48 +16,43 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+1. Created repository on GitHub.com and cloned repository locally to desktop.
+2. Organized CSS script by combining class sections that had identical properties.
+3. Organized HTML script by replacing "div" with proper semantics, putting semantics in sequential order to keep integrity of webpage's design, renamed title element with more concise title, and adding alt attributes to all "img" links.
+4. Pushed local changes back to main branch on original GitHub repository (via GitHub.com), and deployed code at live URL.
+
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+Open the provided URL on your desired browser to access the Horiseon webpage. Within the webpage you will find information on the Horiseon organization.
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+Credit for putting this project together goes to:
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+https://www.w3schools.com/tags/att_img_alt.asp
+https://medium.com/codex/what-is-semantic-markup-and-why-you-should-use-it-44777543c29c
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT License
 
----
+Copyright (c) [year] [fullname]
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## Badges
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
