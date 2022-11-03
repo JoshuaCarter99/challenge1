@@ -31,6 +31,7 @@ Open the provided URL on your desired browser to access the Horiseon webpage. Wi
 Credit for putting this project together goes to:
 
 https://www.w3schools.com/tags/att_img_alt.asp
+  
 https://medium.com/codex/what-is-semantic-markup-and-why-you-should-use-it-44777543c29c
 
 ## License
